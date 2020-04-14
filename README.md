@@ -1,0 +1,1 @@
+# s2-theia-qgis-plugin
